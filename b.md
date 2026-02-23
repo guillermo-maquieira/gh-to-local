@@ -1,6 +1,8 @@
 b
-bb
-bbb
 B
+bb
 BB
+bbb
 BBB
+bbbb
+BBBB
