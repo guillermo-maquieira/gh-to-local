@@ -1,5 +1,5 @@
 # custom_object.py
 
-class Foo(object):
+class Foo:
     def bar(self, value: str) -> str:
         return "value is {}".format(value)
